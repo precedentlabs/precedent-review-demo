@@ -1,0 +1,6 @@
+{
+  "name": "precedent-review-demo",
+  "private": true,
+  "type": "module",
+  "description": "Demo repository for the Precedent Review GitHub App"
+}
